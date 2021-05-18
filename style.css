@@ -1,0 +1,55 @@
+.snap_btn{
+    animation-name:example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    background-color: rgb(181, 255, 230);
+    width:125px;
+    height:45px;
+    border-radius:5%;
+    font-size:15px;
+    color:blue;
+}
+@keyframes example{
+    from{
+        
+        box-shadow:6px 6px 30px rgb(0, 247, 255);
+    }
+    to{
+        
+        box-shadow:6px 6px 30px rgb(255, 0, 234);
+    }
+}
+
+.header {
+    font-weight:900px;
+    box-shadow:3px 3px 10px rgb(0, 140, 255);
+    color:white;
+}
+
+body {
+    background:linear-gradient(rgb(34, 40, 99), rgb(255, 255, 255));
+}
+
+canvas{
+    animation-name:example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    background-color: rgb(181, 255, 230);
+    width:125px;
+    height:45px;
+    border-radius:5%;
+    font-size:15px;
+    color:blue;
+}
+@keyframes example{
+    from{
+        
+        box-shadow:6px 6px 30px rgb(0, 247, 255);
+    }
+    to{
+        
+        box-shadow:6px 6px 30px rgb(255, 0, 234);
+    }
+}
+
+.hea
